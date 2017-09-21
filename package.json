@@ -1,0 +1,24 @@
+{
+  "name": "iothub-to-veraedge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jantielens/iothub-to-veraedge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jantielens/iothub-to-veraedge/issues"
+  },
+  "homepage": "https://github.com/jantielens/iothub-to-veraedge#readme",
+  "dependencies": {
+    "azure-iot-device-mqtt": "^1.1.17",
+    "request": "^2.82.0"
+  }
+}
